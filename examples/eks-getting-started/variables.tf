@@ -1,5 +1,5 @@
 variable "aws_region" {
-  default = "us-west-2"
+  default = "eu-central-1"
 }
 
 variable "cluster-name" {
